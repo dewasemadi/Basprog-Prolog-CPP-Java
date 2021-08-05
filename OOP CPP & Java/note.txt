@@ -1,0 +1,9 @@
+mutator -> function untuk MENGISI nilai pada data member 
+
+asesor -> function untuk MENGAKSES data member
+
+superclass/base class => kelas induk
+subclass/ derive class => kelas turunan
+
+jika inherit, dan parent dan child ada constructor,
+saat dipanggil maka constructor dimulai dari parent

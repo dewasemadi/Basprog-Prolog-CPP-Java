@@ -1,0 +1,6 @@
+5
+Dudung 20 165 60.5
+Abdullah 21 160 70.2
+Sempurna 19 170 80.1
+Dudung 19 164 60.5
+Oskadon 17 155 90.0
