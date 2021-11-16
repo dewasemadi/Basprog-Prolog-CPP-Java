@@ -40,7 +40,6 @@ double Account::getSaldo()
 void Account::deposit(double nilai)
 {
     saldo = getSaldo() + nilai;
-    ;
 }
 void Account::withdraw(double nilai)
 {
